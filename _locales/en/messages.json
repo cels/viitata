@@ -1,0 +1,26 @@
+{
+  "name": {
+    "message": "viitata - Referer Control",
+    "description": "The extension's name"
+  },
+  "shortName": {
+    "message": "viitata",
+    "description": "The extension's short name"
+  },
+  "description": {
+    "message": "Removes the referer header from all requests",
+    "description": "Description of the extension"
+  },
+  "browserActionDefaultTitle": {
+    "message": "viitata",
+    "description": "The tooltip content for the button"
+  },
+  "browserActionTitleActive": {
+    "message": "viitata - blocking referer",
+    "description": "The tooltip's content in case it is active"
+  },
+  "browserActionTitleInactive": {
+    "message": "viitata - not blocking referer",
+    "description": "The tooltip's content in case it is inactive"
+  }
+}
